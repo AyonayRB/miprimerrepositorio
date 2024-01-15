@@ -3,7 +3,7 @@
 $servidor="localhost";
     $usuario="root";
     $contraseña="";
-    $basededatos="nicolás";
+    $basededatos="jaime";
 
     // Conexión a la base de datos (ajusta los datos de conexión)
     $mysqli = new mysqli($servidor, $usuario,  $contraseña,  $basededatos);
